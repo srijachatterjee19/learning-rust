@@ -1,1 +1,1 @@
-# my-first-rust-project
+# learning-rust
